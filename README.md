@@ -1,2 +1,7 @@
 # Java-ASM1
-Funix
+##member
+
+*testmember
+
+
+
